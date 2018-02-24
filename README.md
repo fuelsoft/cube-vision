@@ -16,8 +16,13 @@ Textures can be pretty much any size, so long as they follow the ratios above. O
 ## General
 ### What buttons do I need to know?
 O: Load a new texture
+
 T: Toggle text rendering
+
 Space: Reset view to default
+
 LMB + drag: Pan
+
 RMB + drag: Rotate
+
 Scroll: Zoom
