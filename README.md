@@ -1,4 +1,4 @@
-# cube-vision
+# CubeVision
 An easy way to visualise a texture mapped to a cube
 
 ## So what is this?
@@ -13,3 +13,11 @@ Easy! Launch the program and you'll be greeted by a cube. This isn't really that
 Textures can be pretty much any size, so long as they follow the ratios above. Of course, you can also load any old picture and it will attempt to make it work, but very small images or excessively tall/wide pictures will produce funny but less than optimal results.
 
 *Refer to the template folder for example textures and Photoshop files*
+## General
+### What buttons do I need to know?
+O: Load a new texture
+T: Toggle text rendering
+Space: Reset view to default
+LMB + drag: Pan
+RMB + drag: Rotate
+Scroll: Zoom
