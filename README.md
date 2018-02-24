@@ -1,3 +1,4 @@
+
 # CubeVision
 An easy way to visualise a texture mapped to a cube
 
@@ -26,3 +27,6 @@ LMB + drag: Pan
 RMB + drag: Rotate
 
 Scroll: Zoom
+
+### Who owns the assets provided?
+Some of the textures provided belong to Mojang/Microsoft, specifically the Minecraft block textures. I don't claim these as my own, I only provide them as a nice way to demo my program and how to create a texture with specific sides properly displayed.
